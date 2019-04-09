@@ -1,4 +1,4 @@
-#Which one to use Shared (.so) or static (.a) libraries?
+# Which one to use Shared (.so) or static (.a) libraries?
 
 
 When you create a shared .so library, it basically copies all the .a files that you added in the target_link_libraries(). However
